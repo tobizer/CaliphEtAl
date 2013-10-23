@@ -1,0 +1,8 @@
+Content\sprites\title.xnb
+Content\sprites\endOfTurn.xnb
+Content\sprites\quit.xnb
+Content\sprites\nextTurn.xnb
+Content\sprites\zoneGui.xnb
+Content\sprites\soulGui.xnb
+Content\sprites\cashSouls.xnb
+Content\sprites\upgrade.xnb

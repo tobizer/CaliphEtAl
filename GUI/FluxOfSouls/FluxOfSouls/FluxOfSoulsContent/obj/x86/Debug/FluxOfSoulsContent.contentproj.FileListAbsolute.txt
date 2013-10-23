@@ -1,0 +1,2 @@
+E:\CentennialCollege\Classes\Semester5\COMP-231 Software Development Project 1\FluxOfSouls\FluxOfSouls\FluxOfSoulsContent\obj\x86\Debug\FluxOfSoulsContent.contentprojResolveAssemblyReference.cache
+G:\CentennialCollege\Classes\Semester5\COMP-231 Software Development Project 1\FluxOfSouls\FluxOfSouls\FluxOfSoulsContent\obj\x86\Debug\ResolveAssemblyReference.cache
