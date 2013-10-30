@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedVer1.0", "TilingTest\TilingTest\IntegratedVer1.0.csproj", "{862D62D4-BF50-44F7-8BC0-AB64AB402418}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedVer1.1", "TilingTest\TilingTest\IntegratedVer1.1.csproj", "{862D62D4-BF50-44F7-8BC0-AB64AB402418}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedVer1.0Content", "TilingTest\TilingTestContent\IntegratedVer1.0Content.contentproj", "{0042F0C6-1FC7-414E-9453-8BAE80611F9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedVer1.1Content", "TilingTest\TilingTestContent\IntegratedVer1.1Content.contentproj", "{0042F0C6-1FC7-414E-9453-8BAE80611F9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

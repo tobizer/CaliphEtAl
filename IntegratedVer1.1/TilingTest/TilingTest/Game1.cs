@@ -10,6 +10,8 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
 
+/*Edited Version of Tutorial http://www.xnaresources.com/default.asp?page=Tutorial:TileEngineSeries:3 */
+
 namespace FluxOfSouls
 {
     /// <summary>
@@ -20,13 +22,12 @@ namespace FluxOfSouls
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         TileMap myMap = new TileMap();
-        static public Vector2 Location = Vector2.Zero;
         public Soul soulsList = new Soul();
+        static public Vector2 Location = Vector2.Zero;
         SplashScreenGameComponent splashScreen;
         EndOfTurnGui endOfTurnGui;
         ZoneGui zoneGui;
         SoulGui soulGui;
-
 
         //Game Manager Class
         GameManager gameManager;

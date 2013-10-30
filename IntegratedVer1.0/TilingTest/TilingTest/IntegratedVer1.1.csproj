@@ -91,8 +91,8 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TilingTestContent\IntegratedVer1.0Content.contentproj">
-      <Name>IntegratedVer1.0Content %28Content%29</Name>
+    <ProjectReference Include="..\TilingTestContent\IntegratedVer1.1Content.contentproj">
+      <Name>IntegratedVer1.1Content %28Content%29</Name>
       <XnaReferenceType>Content</XnaReferenceType>
       <Project>{0042F0C6-1FC7-414E-9453-8BAE80611F9E}</Project>
     </ProjectReference>
