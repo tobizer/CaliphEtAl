@@ -7,3 +7,11 @@ Content\sprites\soulGui.xnb
 Content\sprites\title.xnb
 Content\sprites\upgrade.xnb
 Content\sprites\zoneGui.xnb
+Content\sprites\endTurn.xnb
+Content\sprites\tiles.xnb
+Content\sprites\goldCurrency.xnb
+Content\sprites\pointCurrency.xnb
+Content\sprites\soulCurrency.xnb
+Content\sprites\currencyContainer.xnb
+Content\sprites\selection.xnb
+Content\fonts\CourierNew.xnb
